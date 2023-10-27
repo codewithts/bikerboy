@@ -1,0 +1,65 @@
+body{
+    /* background-color: black; */
+}
+#firster{
+    background: #defcf9;
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    left: 0;
+}
+.navbar-brand{
+    color: blue;
+}
+.card{
+    margin: 5px;
+}
+#first { 
+	background: #defcf9; 
+}
+	
+#second { 
+	background: #cadefc; 
+}
+
+#third { 
+	background: #c3bef0; 
+}
+
+#forth { 
+	background: #cca8e9; 
+}
+.fw-bold {
+    font-weight: 700!important;
+    text-transform: capitalize;
+}
+.container {
+    /* background-color: #cfe9fe; */
+}
+
+.pb-0{
+    background-color: #c3bef0;
+}
+.btn a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+#butn{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
